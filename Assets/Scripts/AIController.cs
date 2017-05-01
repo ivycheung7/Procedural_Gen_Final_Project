@@ -20,10 +20,13 @@ public class AIController : MonoBehaviour {
         speed = 130.0f;
     }
 
+    void movement()
+    {
+
+    }
+
     // Update is called once per frame
     void Update () {
-
-
         //            rb.AddForce(transform.right * -speed);
     }
 }

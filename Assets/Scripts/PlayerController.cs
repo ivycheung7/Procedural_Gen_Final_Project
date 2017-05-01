@@ -20,44 +20,40 @@ public class PlayerController : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
         inputDetection();
+//        Debug.Log("VELOCITY: " + rb.velocity);
     }
+
     void inputDetection()
     {
-        
+        Vector3 moveDirection = new Vector3(0,0,0);
+
+        //How to use switch with getkey
         if (Input.GetKey(KeyCode.A) || Input.GetKey(KeyCode.LeftArrow))
         {
-            rb.AddForce(transform.right * -speed);
-            if (Input.GetKeyDown(KeyCode.Space))
-            {
-                rb.AddForce(transform.right * -dashSpeed, ForceMode2D.Impulse);
-            }
+            moveDirection += -transform.right;
+            rb.AddForce(moveDirection * speed);
         }
         else if (Input.GetKey(KeyCode.D) || Input.GetKey(KeyCode.RightArrow))
         {
-            rb.AddForce(transform.right * speed);
-            if (Input.GetKeyDown(KeyCode.Space))
-            {
-                rb.AddForce(transform.right * dashSpeed, ForceMode2D.Impulse);
-            }
+            moveDirection += transform.right;
+            rb.AddForce(moveDirection * speed);
         }
 
         if (Input.GetKey(KeyCode.W) || Input.GetKey(KeyCode.UpArrow))
         {
-            rb.AddForce(transform.up * speed);
-            if (Input.GetKeyDown(KeyCode.Space))
-            {
-                rb.AddForce(transform.up * dashSpeed, ForceMode2D.Impulse);
-            }
-
+            moveDirection += transform.up;
+            rb.AddForce(moveDirection * speed);
         }
         else if (Input.GetKey(KeyCode.S) || Input.GetKey(KeyCode.DownArrow))
         {
-            rb.AddForce(transform.up * -speed);
-            if (Input.GetKeyDown(KeyCode.Space))
-            {
-                rb.AddForce(transform.up * -dashSpeed, ForceMode2D.Impulse);
-            }
+            moveDirection += -transform.up;
+            rb.AddForce(moveDirection * speed);
         }
 
+        //Dash
+        if (Input.GetKeyDown(KeyCode.Space))
+        {
+            rb.AddForce(moveDirection * dashSpeed, ForceMode2D.Impulse);
+        }
     }
 }
