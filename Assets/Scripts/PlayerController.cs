@@ -30,23 +30,23 @@ public class PlayerController : MonoBehaviour {
         //How to use switch with getkey
         if (Input.GetKey(KeyCode.A) || Input.GetKey(KeyCode.LeftArrow))
         {
-            moveDirection += -transform.right;
+            moveDirection.x += -transform.right.x;
             rb.AddForce(moveDirection * speed);
         }
         else if (Input.GetKey(KeyCode.D) || Input.GetKey(KeyCode.RightArrow))
         {
-            moveDirection += transform.right;
+            moveDirection.x += transform.right.x;
             rb.AddForce(moveDirection * speed);
         }
 
         if (Input.GetKey(KeyCode.W) || Input.GetKey(KeyCode.UpArrow))
         {
-            moveDirection += transform.up;
+            moveDirection.y += transform.up.y;
             rb.AddForce(moveDirection * speed);
         }
         else if (Input.GetKey(KeyCode.S) || Input.GetKey(KeyCode.DownArrow))
         {
-            moveDirection += -transform.up;
+            moveDirection.y += -transform.up.y;
             rb.AddForce(moveDirection * speed);
         }
 
