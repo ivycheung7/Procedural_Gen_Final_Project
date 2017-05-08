@@ -15,6 +15,14 @@ public class PlayerController : CharacterController {
 	// Update is called once per frame
 	void Update () {
         inputDetection();
+        if (isAttacking)
+        {
+            //GetComponent<SpriteRenderer>().color = Color.blue;
+        }
+        else
+        {
+            //GET BACK PRETTIER COLOR
+        }
 //        Debug.Log("VELOCITY: " + rb.velocity);
     }
 

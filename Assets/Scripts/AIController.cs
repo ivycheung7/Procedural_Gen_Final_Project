@@ -139,9 +139,19 @@ public class AIController : CharacterController {
     // Update is called once per frame
     void Update () {
         //Chase player
-		if(!isDead){
+        if (isAttacking)
+        {
+            //GetComponent<SpriteRenderer>().color = Color.red;
+        }
+        else
+        {
+            //TURN BACK THE COLOR
+        }
+        if (!isDead){
 			GameObject player = GameObject.Find("Player");
-			if(Vector3.Distance(player.transform.position, transform.position) < 5.0f){
+            if (!player.GetComponent<CharacterController>().isDead)
+            {
+                if(Vector3.Distance(player.transform.position, transform.position) < 5.0f){
 				//Debug.Log("FOUND ENEMY: " + Vector3.Distance(player.transform.position, transform.position));
 				if(canDash){
 					dash();
@@ -163,10 +173,11 @@ public class AIController : CharacterController {
 			else{
 				movement();
 			}		
+            }
 		}
     }
 
-	float getHeuristic(){
+	public float getHeuristic(){
 	/*
 		being able to kill the player is important
 	*/	

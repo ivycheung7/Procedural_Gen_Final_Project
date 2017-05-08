@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class GameManager : MonoBehaviour {
 
@@ -25,6 +26,9 @@ public class GameManager : MonoBehaviour {
 
 	private int level;
 	public int numDeaths;
+
+    public Text levelText;
+    public Text deathsText;
 
     // Use this for initialization
     void Start () {
@@ -82,6 +86,10 @@ public class GameManager : MonoBehaviour {
 
 		level = 0;
 		numDeaths = 0;
+
+        //Text
+        levelText.text = "Level: " + level;
+        deathsText.text = "Deaths: " + numDeaths;
     }
 
 
@@ -89,23 +97,54 @@ public class GameManager : MonoBehaviour {
     {
         //Reset player's spawn position
         player.transform.position = playerSpawn;
-
-		int lowestHeuristic = 999999;
-		int lowestIter = 0;
-
-		//Evolve current generation
+        int[] indices = new int[enemyCount];
+        List<float> heuristics = new List<float>();
+        //Evolve current generation
+        //CS Gods pls forgive me for what I have to do since this is pretty much last minute
         for (int i = 0; i < enemyCount; i++)
         {
-			if(lowestHeuristic > enemies[i].GetComponent<AIController>().getHeuristic(){
-				lowestHeuristic = enemies[i].GetComponent<AIController>().getHeuristic();
-				lowestIter = i;
-			}
+            heuristics.Add(enemies[i].GetComponent<AIController>().getHeuristic());
         }
 
+        heuristics.Sort();
 
-        //Reset enemies position
-        for (int i = 0; i < enemyCount; i++)
+        for(int i = 0; i < enemyCount; i++)
         {
+            for (int j = 0; j < enemyCount; j++)
+            {
+                if(enemies[i].GetComponent<AIController>().getHeuristic() == heuristics[j])
+                {
+                    indices[0] = j;
+                    break;
+                }
+            }
+        }
+        //Indices should be in order now
+
+        int[] validParents = new int[enemyCount];
+        for (int i = 0; i < enemyCount; i++) {
+            //The last element that needs to be eliminated and replaced with a child frm 1st and 2nd
+            if (i == enemyCount - 1)
+            {
+                enemies[i].GetComponent<AIController>().mutate(enemies[indices[0]].GetComponent<AIController>().setPath, enemies[indices[1]].GetComponent<AIController>().setPath);
+            }
+            else
+            {
+                if(i != 0)
+                {
+                    enemies[i].GetComponent<AIController>().mutate(enemies[i].GetComponent<AIController>().setPath, enemies[indices[1]].GetComponent<AIController>().setPath);
+                }
+                else
+                {
+                    enemies[i].GetComponent<AIController>().mutate(enemies[i].GetComponent<AIController>().setPath, enemies[indices[0]].GetComponent<AIController>().setPath);
+                }
+            }
+        }
+
+        //One dies, the rest mate with each other since there's only 4.
+
+        //Reset enemies position & mutate genetic code
+        for (int i = 0; i < enemyCount; i++){
 			enemies[i].GetComponent<CharacterController>().isDead = false;
 			enemies[i].SetActive(true);
             enemies[i].transform.position = new Vector2(Random.Range(spawnXLocation.x, spawnXLocation.y + 1), Random.Range(spawnYLocation.x, spawnYLocation.y + 1));
@@ -115,26 +154,40 @@ public class GameManager : MonoBehaviour {
 		capturedDog.SetActive(false);
 		enemyFlag.SetActive(true);
 		enemyFlag.transform.position = flagLocation;
-		//playerFlag.transform.position = playerSpawn;
+        //playerFlag.transform.position = playerSpawn;
+
+        //Text
+        level++;
+        levelText.text = "Level: " + level;
+        deathsText.text = "Deaths: " + numDeaths;
     }
-	
+
     // Update is called once per frame
-    void Update () {
+    void Update()
+    {
         if (Input.GetKeyDown(KeyCode.R))
         {
             reset();
         }
-		if(player.GetComponent<CharacterController>().isDead){
-			StartCoroutine(RespawnPlayer());
-		}
-		if(player.GetComponent<CharacterController>().beatLevel){
-			level++;			
+        if (player.GetComponent<CharacterController>().isDead)
+        {
+            StartCoroutine(RespawnPlayer());
+        }
+        if (player.GetComponent<CharacterController>().beatLevel)
+        {
+            reset();
+            player.GetComponent<CharacterController>().beatLevel = false;
+        }
+        levelText.text = "Level: " + level;
+        deathsText.text = "Deaths: " + numDeaths;
+    }
 
-		}
-	}
-	IEnumerator RespawnPlayer(){
-		numDeaths++;
-		if(player.GetComponent<CharacterController>().isHoldingFlag){
+    public void addDeath()
+    {
+        numDeaths++;
+    }
+    IEnumerator RespawnPlayer(){
+        if (player.GetComponent<CharacterController>().isHoldingFlag){
 			enemyFlag.transform.position = player.transform.position;
 		}
 		else{
@@ -142,6 +195,7 @@ public class GameManager : MonoBehaviour {
 		}
 		capturedDog.SetActive(false);
 		enemyFlag.SetActive(true);
+
 		yield return new WaitForSeconds(1);
         player.transform.position = playerSpawn;
 		player.GetComponent<CharacterController>().Init();
