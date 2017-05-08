@@ -1,0 +1,5270 @@
+fileFormatVersion: 2
+guid: 945714a06eb6c6149881c42ad0b93d1a
+timeCreated: 1494203389
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PC Computer - Undertale - Annoying Dog_0
+    21300002: PC Computer - Undertale - Annoying Dog_1
+    21300004: PC Computer - Undertale - Annoying Dog_2
+    21300006: PC Computer - Undertale - Annoying Dog_3
+    21300008: PC Computer - Undertale - Annoying Dog_4
+    21300010: PC Computer - Undertale - Annoying Dog_5
+    21300012: PC Computer - Undertale - Annoying Dog_6
+    21300014: PC Computer - Undertale - Annoying Dog_7
+    21300016: PC Computer - Undertale - Annoying Dog_8
+    21300018: PC Computer - Undertale - Annoying Dog_9
+    21300020: PC Computer - Undertale - Annoying Dog_10
+    21300022: PC Computer - Undertale - Annoying Dog_11
+    21300024: PC Computer - Undertale - Annoying Dog_12
+    21300026: PC Computer - Undertale - Annoying Dog_13
+    21300028: PC Computer - Undertale - Annoying Dog_14
+    21300030: PC Computer - Undertale - Annoying Dog_15
+    21300032: PC Computer - Undertale - Annoying Dog_16
+    21300034: PC Computer - Undertale - Annoying Dog_17
+    21300036: PC Computer - Undertale - Annoying Dog_18
+    21300038: PC Computer - Undertale - Annoying Dog_19
+    21300040: PC Computer - Undertale - Annoying Dog_20
+    21300042: PC Computer - Undertale - Annoying Dog_21
+    21300044: PC Computer - Undertale - Annoying Dog_22
+    21300046: PC Computer - Undertale - Annoying Dog_23
+    21300048: PC Computer - Undertale - Annoying Dog_24
+    21300050: PC Computer - Undertale - Annoying Dog_25
+    21300052: PC Computer - Undertale - Annoying Dog_26
+    21300054: PC Computer - Undertale - Annoying Dog_27
+    21300056: PC Computer - Undertale - Annoying Dog_28
+    21300058: PC Computer - Undertale - Annoying Dog_29
+    21300060: PC Computer - Undertale - Annoying Dog_30
+    21300062: PC Computer - Undertale - Annoying Dog_31
+    21300064: PC Computer - Undertale - Annoying Dog_32
+    21300066: PC Computer - Undertale - Annoying Dog_33
+    21300068: PC Computer - Undertale - Annoying Dog_34
+    21300070: PC Computer - Undertale - Annoying Dog_35
+    21300072: PC Computer - Undertale - Annoying Dog_36
+    21300074: PC Computer - Undertale - Annoying Dog_37
+    21300076: PC Computer - Undertale - Annoying Dog_38
+    21300078: PC Computer - Undertale - Annoying Dog_39
+    21300080: PC Computer - Undertale - Annoying Dog_40
+    21300082: PC Computer - Undertale - Annoying Dog_41
+    21300084: PC Computer - Undertale - Annoying Dog_42
+    21300086: PC Computer - Undertale - Annoying Dog_43
+    21300088: PC Computer - Undertale - Annoying Dog_44
+    21300090: PC Computer - Undertale - Annoying Dog_45
+    21300092: PC Computer - Undertale - Annoying Dog_46
+    21300094: PC Computer - Undertale - Annoying Dog_47
+    21300096: PC Computer - Undertale - Annoying Dog_48
+    21300098: PC Computer - Undertale - Annoying Dog_49
+    21300100: PC Computer - Undertale - Annoying Dog_50
+    21300102: PC Computer - Undertale - Annoying Dog_51
+    21300104: PC Computer - Undertale - Annoying Dog_52
+    21300106: PC Computer - Undertale - Annoying Dog_53
+    21300108: PC Computer - Undertale - Annoying Dog_54
+    21300110: PC Computer - Undertale - Annoying Dog_55
+    21300112: PC Computer - Undertale - Annoying Dog_56
+    21300114: PC Computer - Undertale - Annoying Dog_57
+    21300116: PC Computer - Undertale - Annoying Dog_58
+    21300118: PC Computer - Undertale - Annoying Dog_59
+    21300120: PC Computer - Undertale - Annoying Dog_60
+    21300122: PC Computer - Undertale - Annoying Dog_61
+    21300124: PC Computer - Undertale - Annoying Dog_62
+    21300126: PC Computer - Undertale - Annoying Dog_63
+    21300128: PC Computer - Undertale - Annoying Dog_64
+    21300130: PC Computer - Undertale - Annoying Dog_65
+    21300132: PC Computer - Undertale - Annoying Dog_66
+    21300134: PC Computer - Undertale - Annoying Dog_67
+    21300136: PC Computer - Undertale - Annoying Dog_68
+    21300138: PC Computer - Undertale - Annoying Dog_69
+    21300140: PC Computer - Undertale - Annoying Dog_70
+    21300142: PC Computer - Undertale - Annoying Dog_71
+    21300144: PC Computer - Undertale - Annoying Dog_72
+    21300146: PC Computer - Undertale - Annoying Dog_73
+    21300148: PC Computer - Undertale - Annoying Dog_74
+    21300150: PC Computer - Undertale - Annoying Dog_75
+    21300152: PC Computer - Undertale - Annoying Dog_76
+    21300154: PC Computer - Undertale - Annoying Dog_77
+    21300156: PC Computer - Undertale - Annoying Dog_78
+    21300158: PC Computer - Undertale - Annoying Dog_79
+    21300160: PC Computer - Undertale - Annoying Dog_80
+    21300162: PC Computer - Undertale - Annoying Dog_81
+    21300164: PC Computer - Undertale - Annoying Dog_82
+    21300166: PC Computer - Undertale - Annoying Dog_83
+    21300168: PC Computer - Undertale - Annoying Dog_84
+    21300170: PC Computer - Undertale - Annoying Dog_85
+    21300172: PC Computer - Undertale - Annoying Dog_86
+    21300174: PC Computer - Undertale - Annoying Dog_87
+    21300176: PC Computer - Undertale - Annoying Dog_88
+    21300178: PC Computer - Undertale - Annoying Dog_89
+    21300180: PC Computer - Undertale - Annoying Dog_90
+    21300182: PC Computer - Undertale - Annoying Dog_91
+    21300184: PC Computer - Undertale - Annoying Dog_92
+    21300186: PC Computer - Undertale - Annoying Dog_93
+    21300188: PC Computer - Undertale - Annoying Dog_94
+    21300190: PC Computer - Undertale - Annoying Dog_95
+    21300192: PC Computer - Undertale - Annoying Dog_96
+    21300194: PC Computer - Undertale - Annoying Dog_97
+    21300196: PC Computer - Undertale - Annoying Dog_98
+    21300198: PC Computer - Undertale - Annoying Dog_99
+    21300200: PC Computer - Undertale - Annoying Dog_100
+    21300202: PC Computer - Undertale - Annoying Dog_101
+    21300204: PC Computer - Undertale - Annoying Dog_102
+    21300206: PC Computer - Undertale - Annoying Dog_103
+    21300208: PC Computer - Undertale - Annoying Dog_104
+    21300210: PC Computer - Undertale - Annoying Dog_105
+    21300212: PC Computer - Undertale - Annoying Dog_106
+    21300214: PC Computer - Undertale - Annoying Dog_107
+    21300216: PC Computer - Undertale - Annoying Dog_108
+    21300218: PC Computer - Undertale - Annoying Dog_109
+    21300220: PC Computer - Undertale - Annoying Dog_110
+    21300222: PC Computer - Undertale - Annoying Dog_111
+    21300224: PC Computer - Undertale - Annoying Dog_112
+    21300226: PC Computer - Undertale - Annoying Dog_113
+    21300228: PC Computer - Undertale - Annoying Dog_114
+    21300230: PC Computer - Undertale - Annoying Dog_115
+    21300232: PC Computer - Undertale - Annoying Dog_116
+    21300234: PC Computer - Undertale - Annoying Dog_117
+    21300236: PC Computer - Undertale - Annoying Dog_118
+    21300238: PC Computer - Undertale - Annoying Dog_119
+    21300240: PC Computer - Undertale - Annoying Dog_120
+    21300242: PC Computer - Undertale - Annoying Dog_121
+    21300244: PC Computer - Undertale - Annoying Dog_122
+    21300246: PC Computer - Undertale - Annoying Dog_123
+    21300248: PC Computer - Undertale - Annoying Dog_124
+    21300250: sleep1
+    21300252: sleep2
+    21300254: PC Computer - Undertale - Annoying Dog_127
+    21300256: PC Computer - Undertale - Annoying Dog_128
+    21300258: PC Computer - Undertale - Annoying Dog_129
+    21300260: PC Computer - Undertale - Annoying Dog_130
+    21300262: PC Computer - Undertale - Annoying Dog_131
+    21300264: PC Computer - Undertale - Annoying Dog_132
+    21300266: PC Computer - Undertale - Annoying Dog_133
+    21300268: PC Computer - Undertale - Annoying Dog_134
+    21300270: PC Computer - Undertale - Annoying Dog_135
+    21300272: PC Computer - Undertale - Annoying Dog_136
+    21300274: PC Computer - Undertale - Annoying Dog_137
+    21300276: PC Computer - Undertale - Annoying Dog_138
+    21300278: PC Computer - Undertale - Annoying Dog_139
+    21300280: PC Computer - Undertale - Annoying Dog_140
+    21300282: PC Computer - Undertale - Annoying Dog_141
+    21300284: PC Computer - Undertale - Annoying Dog_142
+    21300286: PC Computer - Undertale - Annoying Dog_143
+    21300288: PC Computer - Undertale - Annoying Dog_144
+    21300290: PC Computer - Undertale - Annoying Dog_145
+    21300292: PC Computer - Undertale - Annoying Dog_146
+    21300294: PC Computer - Undertale - Annoying Dog_147
+    21300296: PC Computer - Undertale - Annoying Dog_148
+    21300298: PC Computer - Undertale - Annoying Dog_149
+    21300300: PC Computer - Undertale - Annoying Dog_150
+    21300302: PC Computer - Undertale - Annoying Dog_151
+    21300304: PC Computer - Undertale - Annoying Dog_152
+    21300306: PC Computer - Undertale - Annoying Dog_153
+    21300308: PC Computer - Undertale - Annoying Dog_154
+    21300310: PC Computer - Undertale - Annoying Dog_155
+    21300312: PC Computer - Undertale - Annoying Dog_156
+    21300314: PC Computer - Undertale - Annoying Dog_157
+    21300316: PC Computer - Undertale - Annoying Dog_158
+    21300318: PC Computer - Undertale - Annoying Dog_159
+    21300320: PC Computer - Undertale - Annoying Dog_160
+    21300322: PC Computer - Undertale - Annoying Dog_161
+    21300324: PC Computer - Undertale - Annoying Dog_162
+    21300326: PC Computer - Undertale - Annoying Dog_163
+    21300328: PC Computer - Undertale - Annoying Dog_164
+    21300330: PC Computer - Undertale - Annoying Dog_165
+    21300332: PC Computer - Undertale - Annoying Dog_166
+    21300334: PC Computer - Undertale - Annoying Dog_167
+    21300336: PC Computer - Undertale - Annoying Dog_168
+    21300338: PC Computer - Undertale - Annoying Dog_169
+    21300340: PC Computer - Undertale - Annoying Dog_170
+    21300342: PC Computer - Undertale - Annoying Dog_171
+    21300344: PC Computer - Undertale - Annoying Dog_172
+    21300346: PC Computer - Undertale - Annoying Dog_173
+    21300348: PC Computer - Undertale - Annoying Dog_174
+    21300350: 1
+    21300352: 2
+    21300354: 3
+    21300356: 4
+    21300358: 5
+    21300360: 6
+    21300362: 7
+    21300364: 8
+    21300366: PC Computer - Undertale - Annoying Dog_183
+    21300368: PC Computer - Undertale - Annoying Dog_184
+    21300370: PC Computer - Undertale - Annoying Dog_185
+    21300372: PC Computer - Undertale - Annoying Dog_186
+    21300374: PC Computer - Undertale - Annoying Dog_187
+    21300376: PC Computer - Undertale - Annoying Dog_188
+    21300378: PC Computer - Undertale - Annoying Dog_189
+    21300380: PC Computer - Undertale - Annoying Dog_190
+    21300382: PC Computer - Undertale - Annoying Dog_191
+    21300384: PC Computer - Undertale - Annoying Dog_192
+    21300386: PC Computer - Undertale - Annoying Dog_193
+    21300388: PC Computer - Undertale - Annoying Dog_194
+    21300390: PC Computer - Undertale - Annoying Dog_195
+    21300392: s1
+    21300394: PC Computer - Undertale - Annoying Dog_197
+    21300396: PC Computer - Undertale - Annoying Dog_198
+    21300398: PC Computer - Undertale - Annoying Dog_199
+    21300400: PC Computer - Undertale - Annoying Dog_200
+    21300402: PC Computer - Undertale - Annoying Dog_201
+    21300404: PC Computer - Undertale - Annoying Dog_202
+    21300406: PC Computer - Undertale - Annoying Dog_203
+    21300408: PC Computer - Undertale - Annoying Dog_204
+    21300410: PC Computer - Undertale - Annoying Dog_205
+    21300412: PC Computer - Undertale - Annoying Dog_206
+    21300414: PC Computer - Undertale - Annoying Dog_207
+    21300416: PC Computer - Undertale - Annoying Dog_208
+    21300418: PC Computer - Undertale - Annoying Dog_209
+    21300420: PC Computer - Undertale - Annoying Dog_210
+    21300422: PC Computer - Undertale - Annoying Dog_211
+    21300424: PC Computer - Undertale - Annoying Dog_212
+    21300426: PC Computer - Undertale - Annoying Dog_213
+    21300428: PC Computer - Undertale - Annoying Dog_214
+    21300430: PC Computer - Undertale - Annoying Dog_215
+    21300432: PC Computer - Undertale - Annoying Dog_216
+    21300434: PC Computer - Undertale - Annoying Dog_217
+    21300436: PC Computer - Undertale - Annoying Dog_218
+    21300438: PC Computer - Undertale - Annoying Dog_219
+    21300440: PC Computer - Undertale - Annoying Dog_220
+    21300442: PC Computer - Undertale - Annoying Dog_221
+    21300444: PC Computer - Undertale - Annoying Dog_222
+    21300446: PC Computer - Undertale - Annoying Dog_223
+    21300448: PC Computer - Undertale - Annoying Dog_224
+    21300450: PC Computer - Undertale - Annoying Dog_225
+    21300452: PC Computer - Undertale - Annoying Dog_226
+    21300454: PC Computer - Undertale - Annoying Dog_227
+    21300456: PC Computer - Undertale - Annoying Dog_228
+    21300458: PC Computer - Undertale - Annoying Dog_229
+    21300460: PC Computer - Undertale - Annoying Dog_230
+    21300462: PC Computer - Undertale - Annoying Dog_231
+    21300464: PC Computer - Undertale - Annoying Dog_232
+    21300466: PC Computer - Undertale - Annoying Dog_233
+    21300468: PC Computer - Undertale - Annoying Dog_234
+    21300470: PC Computer - Undertale - Annoying Dog_235
+    21300472: PC Computer - Undertale - Annoying Dog_236
+    21300474: PC Computer - Undertale - Annoying Dog_237
+    21300476: PC Computer - Undertale - Annoying Dog_238
+    21300478: PC Computer - Undertale - Annoying Dog_239
+    21300480: PC Computer - Undertale - Annoying Dog_240
+    21300482: PC Computer - Undertale - Annoying Dog_241
+    21300484: PC Computer - Undertale - Annoying Dog_242
+    21300486: f1
+    21300488: f2
+    21300490: f3
+    21300492: f4
+    21300494: f5
+    21300496: f6
+    21300498: f7
+    21300500: f8
+    21300502: f9
+    21300504: f10
+    21300506: PC Computer - Undertale - Annoying Dog_253
+    21300508: PC Computer - Undertale - Annoying Dog_254
+    21300510: PC Computer - Undertale - Annoying Dog_255
+    21300512: PC Computer - Undertale - Annoying Dog_256
+    21300514: PC Computer - Undertale - Annoying Dog_257
+    21300516: PC Computer - Undertale - Annoying Dog_258
+    21300518: PC Computer - Undertale - Annoying Dog_259
+    21300520: PC Computer - Undertale - Annoying Dog_260
+    21300522: PC Computer - Undertale - Annoying Dog_261
+    21300524: PC Computer - Undertale - Annoying Dog_262
+    21300526: PC Computer - Undertale - Annoying Dog_263
+    21300528: PC Computer - Undertale - Annoying Dog_264
+    21300530: PC Computer - Undertale - Annoying Dog_265
+    21300532: PC Computer - Undertale - Annoying Dog_266
+    21300534: PC Computer - Undertale - Annoying Dog_267
+    21300536: PC Computer - Undertale - Annoying Dog_268
+    21300538: PC Computer - Undertale - Annoying Dog_269
+    21300540: PC Computer - Undertale - Annoying Dog_270
+    21300542: PC Computer - Undertale - Annoying Dog_271
+    21300544: PC Computer - Undertale - Annoying Dog_272
+    21300546: PC Computer - Undertale - Annoying Dog_273
+    21300548: PC Computer - Undertale - Annoying Dog_274
+    21300550: PC Computer - Undertale - Annoying Dog_275
+    21300552: PC Computer - Undertale - Annoying Dog_276
+    21300554: PC Computer - Undertale - Annoying Dog_277
+    21300556: PC Computer - Undertale - Annoying Dog_278
+    21300558: PC Computer - Undertale - Annoying Dog_279
+    21300560: PC Computer - Undertale - Annoying Dog_280
+    21300562: PC Computer - Undertale - Annoying Dog_281
+    21300564: PC Computer - Undertale - Annoying Dog_282
+    21300566: PC Computer - Undertale - Annoying Dog_283
+    21300568: PC Computer - Undertale - Annoying Dog_284
+    21300570: PC Computer - Undertale - Annoying Dog_285
+    21300572: PC Computer - Undertale - Annoying Dog_286
+    21300574: PC Computer - Undertale - Annoying Dog_287
+    21300576: PC Computer - Undertale - Annoying Dog_288
+    21300578: PC Computer - Undertale - Annoying Dog_289
+    21300580: PC Computer - Undertale - Annoying Dog_290
+    21300582: PC Computer - Undertale - Annoying Dog_291
+    21300584: PC Computer - Undertale - Annoying Dog_292
+    21300586: PC Computer - Undertale - Annoying Dog_293
+    21300588: PC Computer - Undertale - Annoying Dog_294
+    21300590: PC Computer - Undertale - Annoying Dog_295
+    21300592: PC Computer - Undertale - Annoying Dog_296
+    21300594: PC Computer - Undertale - Annoying Dog_297
+    21300596: PC Computer - Undertale - Annoying Dog_298
+    21300598: PC Computer - Undertale - Annoying Dog_299
+    21300600: PC Computer - Undertale - Annoying Dog_300
+    21300602: PC Computer - Undertale - Annoying Dog_301
+    21300604: PC Computer - Undertale - Annoying Dog_302
+    21300606: PC Computer - Undertale - Annoying Dog_303
+    21300608: PC Computer - Undertale - Annoying Dog_304
+    21300610: PC Computer - Undertale - Annoying Dog_305
+    21300612: PC Computer - Undertale - Annoying Dog_306
+    21300614: PC Computer - Undertale - Annoying Dog_307
+    21300616: PC Computer - Undertale - Annoying Dog_308
+    21300618: PC Computer - Undertale - Annoying Dog_309
+    21300620: PC Computer - Undertale - Annoying Dog_310
+    21300622: PC Computer - Undertale - Annoying Dog_311
+    21300624: PC Computer - Undertale - Annoying Dog_312
+    21300626: PC Computer - Undertale - Annoying Dog_313
+    21300628: PC Computer - Undertale - Annoying Dog_314
+    21300630: PC Computer - Undertale - Annoying Dog_315
+    21300632: PC Computer - Undertale - Annoying Dog_316
+    21300634: PC Computer - Undertale - Annoying Dog_317
+    21300636: PC Computer - Undertale - Annoying Dog_318
+    21300638: PC Computer - Undertale - Annoying Dog_319
+    21300640: PC Computer - Undertale - Annoying Dog_320
+    21300642: PC Computer - Undertale - Annoying Dog_321
+    21300644: PC Computer - Undertale - Annoying Dog_322
+    21300646: PC Computer - Undertale - Annoying Dog_323
+    21300648: PC Computer - Undertale - Annoying Dog_324
+    21300650: PC Computer - Undertale - Annoying Dog_325
+    21300652: PC Computer - Undertale - Annoying Dog_326
+    21300654: PC Computer - Undertale - Annoying Dog_327
+    21300656: PC Computer - Undertale - Annoying Dog_328
+    21300658: PC Computer - Undertale - Annoying Dog_329
+    21300660: PC Computer - Undertale - Annoying Dog_330
+    21300662: PC Computer - Undertale - Annoying Dog_331
+    21300664: PC Computer - Undertale - Annoying Dog_332
+    21300666: PC Computer - Undertale - Annoying Dog_333
+    21300668: PC Computer - Undertale - Annoying Dog_334
+    21300670: PC Computer - Undertale - Annoying Dog_335
+    21300672: PC Computer - Undertale - Annoying Dog_336
+    21300674: PC Computer - Undertale - Annoying Dog_337
+    21300676: PC Computer - Undertale - Annoying Dog_338
+    21300678: PC Computer - Undertale - Annoying Dog_339
+    21300680: PC Computer - Undertale - Annoying Dog_340
+    21300682: PC Computer - Undertale - Annoying Dog_341
+    21300684: PC Computer - Undertale - Annoying Dog_342
+    21300686: PC Computer - Undertale - Annoying Dog_343
+    21300688: PC Computer - Undertale - Annoying Dog_344
+    21300690: PC Computer - Undertale - Annoying Dog_345
+    21300692: PC Computer - Undertale - Annoying Dog_346
+    21300694: PC Computer - Undertale - Annoying Dog_347
+    21300696: PC Computer - Undertale - Annoying Dog_348
+    21300698: PC Computer - Undertale - Annoying Dog_349
+    21300700: PC Computer - Undertale - Annoying Dog_350
+    21300702: PC Computer - Undertale - Annoying Dog_351
+    21300704: PC Computer - Undertale - Annoying Dog_352
+    21300706: PC Computer - Undertale - Annoying Dog_353
+    21300708: PC Computer - Undertale - Annoying Dog_354
+    21300710: PC Computer - Undertale - Annoying Dog_355
+    21300712: PC Computer - Undertale - Annoying Dog_356
+    21300714: PC Computer - Undertale - Annoying Dog_357
+    21300716: PC Computer - Undertale - Annoying Dog_358
+    21300718: PC Computer - Undertale - Annoying Dog_359
+    21300720: PC Computer - Undertale - Annoying Dog_360
+    21300722: PC Computer - Undertale - Annoying Dog_361
+    21300724: PC Computer - Undertale - Annoying Dog_362
+    21300726: PC Computer - Undertale - Annoying Dog_363
+    21300728: PC Computer - Undertale - Annoying Dog_364
+    21300730: PC Computer - Undertale - Annoying Dog_365
+    21300732: PC Computer - Undertale - Annoying Dog_366
+    21300734: PC Computer - Undertale - Annoying Dog_367
+    21300736: PC Computer - Undertale - Annoying Dog_368
+    21300738: PC Computer - Undertale - Annoying Dog_369
+    21300740: PC Computer - Undertale - Annoying Dog_370
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 20
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 642
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 642
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 642
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_3
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 642
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_4
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 642
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_5
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 642
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_6
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 639
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_7
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 642
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_8
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 642
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_9
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 642
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_10
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 642
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_11
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 642
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_12
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 642
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_13
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 642
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_14
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 642
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_15
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 642
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_16
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 642
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_17
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 642
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_18
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 642
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_19
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 642
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 614
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_21
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 617
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_22
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 617
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_23
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 617
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_24
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 617
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_25
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 617
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_26
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 617
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_27
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 617
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_28
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 617
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_29
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 614
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_30
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 585
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_31
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 587
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_32
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 587
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_33
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 587
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_34
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 591
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_35
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 591
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_36
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 591
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_37
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 591
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_38
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 591
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_39
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 588
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_40
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 591
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_41
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 591
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_42
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 591
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_43
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 591
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_44
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 591
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_45
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 591
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_46
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 591
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_47
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 588
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_48
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 591
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_49
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 591
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_50
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 591
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_51
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 588
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_52
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 591
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_53
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 567
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_54
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 567
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_55
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 567
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_56
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 567
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_57
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 567
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_58
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 567
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_59
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 567
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_60
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 567
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_61
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 567
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_62
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 567
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_63
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 567
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_64
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 547
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_65
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 547
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_66
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 547
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_67
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 547
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_68
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 547
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_69
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 547
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_70
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 526
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_71
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 526
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_72
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 530
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_73
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 530
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_74
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 530
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_75
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 530
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_76
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 530
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_77
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 530
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_78
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 530
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_79
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 506
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_80
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 506
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_81
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 506
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_82
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 506
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_83
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 506
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_84
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 506
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_85
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 486
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_86
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 486
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_87
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 486
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_88
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 486
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_89
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 486
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_90
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 486
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_91
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 486
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_92
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 486
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_93
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 483
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_94
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 486
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_95
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 486
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_96
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 486
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_97
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 486
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_98
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 486
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_99
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 486
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_100
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 486
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_101
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 486
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_102
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 486
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_103
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 466
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_104
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 466
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_105
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 466
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_106
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 466
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_107
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 466
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_108
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 466
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_109
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 450
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_110
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 453
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_111
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 453
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_112
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 450
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_113
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 450
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_114
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 453
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_115
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 453
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_116
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 453
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_117
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 428
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_118
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 428
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_119
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 428
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_120
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 428
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_121
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 428
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_122
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 428
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_123
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 428
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_124
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 428
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sleep1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 414
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sleep2
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 414
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_127
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 413
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_128
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 413
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_129
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 413
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_130
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 413
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_131
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 410
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_132
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 398
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_133
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 398
+        width: 27
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_134
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 399
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_135
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 399
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_136
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 399
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_137
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 399
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_138
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 396
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_139
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 399
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_140
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 399
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_141
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 399
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_142
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 399
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_143
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 399
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_144
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 399
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_145
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 383
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_146
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 383
+        width: 27
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_147
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 384
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_148
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 384
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_149
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 384
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_150
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 384
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_151
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 382
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_152
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 384
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_153
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 384
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_154
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 384
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_155
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 384
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_156
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 384
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_157
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 384
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_158
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 384
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_159
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 384
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_160
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 381
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_161
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 384
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_162
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 371
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_163
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 371
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_164
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 373
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_165
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 373
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_166
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 373
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_167
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 373
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_168
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 372
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_169
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 372
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_170
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 372
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_171
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 372
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_172
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 372
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_173
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 372
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_174
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 370
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 351
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 351
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 351
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 4
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 351
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 5
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 351
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 6
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 351
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 7
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 351
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 8
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 351
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_183
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 356
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_184
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 356
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_185
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 356
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_186
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 356
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_187
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 356
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_188
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 353
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_189
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 331
+        width: 31
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_190
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 331
+        width: 31
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_191
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 331
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_192
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 331
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_193
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 331
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_194
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 331
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_195
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 331
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: s1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 311
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_197
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 311
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_198
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 314
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_199
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 314
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_200
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 314
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_201
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 311
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_202
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 314
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_203
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 314
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_204
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 314
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_205
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 314
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_206
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 314
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_207
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 291
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_208
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 291
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_209
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 294
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_210
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 294
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_211
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 291
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_212
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 294
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_213
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 294
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_214
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 294
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_215
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 270
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_216
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 270
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_217
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 273
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_218
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 273
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_219
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 273
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_220
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 270
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_221
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 273
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_222
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 273
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_223
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 273
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_224
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 248
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_225
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 248
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_226
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 251
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_227
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 251
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_228
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 251
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_229
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 251
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_230
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 251
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_231
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 248
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_232
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 251
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_233
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 223
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_234
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 223
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_235
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 226
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_236
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 226
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_237
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 226
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_238
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 226
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_239
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 226
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_240
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 226
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_241
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 226
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_242
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 226
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: f1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 138
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: f2
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 138
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: f3
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 138
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: f4
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 138
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: f5
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 138
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: f6
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 138
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: f7
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 138
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: f8
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 138
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: f9
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 138
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: f10
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 138
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_253
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 188
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_254
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 188
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_255
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 188
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_256
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 188
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_257
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 188
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_258
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 188
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_259
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 188
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_260
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 188
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_261
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 188
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_262
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 188
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_263
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 174
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_264
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 174
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_265
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 174
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_266
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 174
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_267
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 174
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_268
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 171
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_269
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 174
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_270
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 174
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_271
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 174
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_272
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 174
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_273
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 174
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_274
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 174
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_275
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 104
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_276
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 104
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_277
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 116
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_278
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 116
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_279
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 116
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_280
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 116
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_281
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 116
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_282
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 116
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_283
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 116
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_284
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 116
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_285
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 116
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_286
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 116
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_287
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 115
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_288
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 115
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_289
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 115
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_290
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 112
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_291
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 115
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_292
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 115
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_293
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 115
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_294
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 115
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_295
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 115
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_296
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 115
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_297
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 71
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_298
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 91
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_299
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 91
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_300
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 91
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_301
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 91
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_302
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 91
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_303
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 91
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_304
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 91
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_305
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 91
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_306
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 91
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_307
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 91
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_308
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 76
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_309
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 76
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_310
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 76
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_311
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 76
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_312
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 76
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_313
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 76
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_314
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 73
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_315
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 53
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_316
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 57
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_317
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 57
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_318
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 54
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_319
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 57
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_320
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 57
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_321
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 57
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_322
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 57
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_323
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 57
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_324
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 35
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_325
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 35
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_326
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 35
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_327
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 35
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_328
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 35
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_329
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 35
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_330
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 35
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_331
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 35
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_332
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 40
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_333
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 40
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_334
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 40
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_335
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 40
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_336
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 37
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_337
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 40
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_338
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 40
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_339
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 37
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_340
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 40
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_341
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 40
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_342
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 40
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_343
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 40
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_344
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 37
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_345
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 40
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_346
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 40
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_347
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 37
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_348
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 17
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_349
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 17
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_350
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 17
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_351
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 17
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_352
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 20
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_353
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 20
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_354
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 17
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_355
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 20
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_356
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 20
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_357
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 20
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_358
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 20
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_359
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_360
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_361
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 2
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_362
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_363
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 2
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_364
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_365
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 5
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_366
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 5
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_367
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 5
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_368
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 5
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_369
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 5
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Annoying Dog_370
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 5
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -2,19 +2,14 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PlayerController : MonoBehaviour {
+public class PlayerController : CharacterController {
 
-    private float dashSpeed;
-    private float speed;
     private Rigidbody2D rb;
     //private Vector2 
-
 
 	// Use this for initialization
 	void Start () {
         rb = GetComponent<Rigidbody2D>();
-        dashSpeed = 30.0f;
-        speed = 110.0f;
 	}
 	
 	// Update is called once per frame
@@ -30,30 +25,42 @@ public class PlayerController : MonoBehaviour {
         //How to use switch with getkey
         if (Input.GetKey(KeyCode.A) || Input.GetKey(KeyCode.LeftArrow))
         {
-            moveDirection.x += -transform.right.x;
-            rb.AddForce(moveDirection * speed);
-        }
+            moveDirection += -transform.right;
+			rb.AddForce(moveDirection * getSpeed());
+		}
         else if (Input.GetKey(KeyCode.D) || Input.GetKey(KeyCode.RightArrow))
         {
-            moveDirection.x += transform.right.x;
-            rb.AddForce(moveDirection * speed);
-        }
+            moveDirection += transform.right;
+        	rb.AddForce(moveDirection * getSpeed());
+		}
 
         if (Input.GetKey(KeyCode.W) || Input.GetKey(KeyCode.UpArrow))
         {
-            moveDirection.y += transform.up.y;
-            rb.AddForce(moveDirection * speed);
-        }
+            moveDirection += transform.up;
+        	rb.AddForce(moveDirection * getSpeed());
+		}
         else if (Input.GetKey(KeyCode.S) || Input.GetKey(KeyCode.DownArrow))
         {
-            moveDirection.y += -transform.up.y;
-            rb.AddForce(moveDirection * speed);
-        }
+            moveDirection += -transform.up;
+        	rb.AddForce(moveDirection * getSpeed());
+		}
 
-        //Dash
-        if (Input.GetKeyDown(KeyCode.Space))
-        {
-            rb.AddForce(moveDirection * dashSpeed, ForceMode2D.Impulse);
-        }
+		//Dash
+		if(canDash){
+			if (Input.GetKeyDown(KeyCode.Space)){
+				dash();
+				rb.AddForce(moveDirection.normalized * getDashSpeed(), ForceMode2D.Impulse);
+			}
+		}
+		else{
+			dashIter += Time.deltaTime;
+			
+			isAttacking = (dashIter > attackCooldown) ? false : true;
+
+			if(dashCoolDown <= dashIter){
+				canDash = true;
+				//You can dash again
+			}
+		}
     }
 }
