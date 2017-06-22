@@ -45,7 +45,7 @@ public class AIController : CharacterController {
 		dashCoolDown = .75f; // To make it easier for player compared to .5f cooldown for player
 	}
 
-	//Ty AP Thomson for this function
+	//Thank AP Thomson for this function
 	public void simpleShuffle(int[] list) {
 		for (int i = 0; i < list.Length*10; i++) {
 			int randIndex1 = Random.Range(0, list.Length);
@@ -107,7 +107,7 @@ public class AIController : CharacterController {
 			case "3":
 				moveDirection -= transform.right;
 				break;
-
+			//Diagonals!
 			case "4":
 				moveDirection += transform.up + transform.right;
 				break;
@@ -152,27 +152,27 @@ public class AIController : CharacterController {
             if (!player.GetComponent<CharacterController>().isDead)
             {
                 if(Vector3.Distance(player.transform.position, transform.position) < 5.0f){
-				//Debug.Log("FOUND ENEMY: " + Vector3.Distance(player.transform.position, transform.position));
-				if(canDash){
-					dash();
-					rb.AddForce((player.transform.position - transform.position).normalized * getDashSpeed(), ForceMode2D.Impulse);
+					//Debug.Log("FOUND ENEMY: " + Vector3.Distance(player.transform.position, transform.position));
+					if(canDash){
+						dash();
+						rb.AddForce((player.transform.position - transform.position).normalized * getDashSpeed(), ForceMode2D.Impulse);
+					}
+					else{
+						rb.AddForce((player.transform.position - transform.position) * getChaseSpeed());
+						dashIter += Time.deltaTime;
+					
+						isAttacking = (dashIter > attackCooldown) ? false : true;
+
+						if(dashCoolDown <= dashIter){
+							canDash = true;
+							//You can dash again
+						}
+					}				
+					timeClosestToPlayer += Time.deltaTime;
 				}
 				else{
-					rb.AddForce((player.transform.position - transform.position) * getChaseSpeed());
-					dashIter += Time.deltaTime;
-					
-					isAttacking = (dashIter > attackCooldown) ? false : true;
-
-					if(dashCoolDown <= dashIter){
-						canDash = true;
-						//You can dash again
-					}
-				}				
-				timeClosestToPlayer += Time.deltaTime;
-			}
-			else{
-				movement();
-			}		
+					movement();
+				}		
             }
 		}
     }

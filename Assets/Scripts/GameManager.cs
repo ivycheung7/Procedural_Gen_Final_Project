@@ -88,7 +88,7 @@ public class GameManager : MonoBehaviour {
 		numDeaths = 0;
 
         //Text
-        levelText.text = "Level: " + level;
+        levelText.text = "Dogs Sheltered: " + level;
         deathsText.text = "Deaths: " + numDeaths;
     }
 
@@ -122,11 +122,14 @@ public class GameManager : MonoBehaviour {
         //Indices should be in order now
 
         int[] validParents = new int[enemyCount];
+		//For now, the best performing enemy's genes will be mixed with the rest of the enemies. Aka it gets around.
         for (int i = 0; i < enemyCount; i++) {
-            //The last element that needs to be eliminated and replaced with a child frm 1st and 2nd
+			//Last element (worst performing) will be randomly generated.
             if (i == enemyCount - 1)
             {
-                enemies[i].GetComponent<AIController>().mutate(enemies[indices[0]].GetComponent<AIController>().setPath, enemies[indices[1]].GetComponent<AIController>().setPath);
+				enemies[i].GetComponent<AIController>().Init();
+				//The last element that needs to be eliminated and replaced with a child frm 1st and 2nd.
+                //enemies[i].GetComponent<AIController>().mutate(enemies[indices[0]].GetComponent<AIController>().setPath, enemies[indices[1]].GetComponent<AIController>().setPath);
             }
             else
             {
@@ -141,7 +144,7 @@ public class GameManager : MonoBehaviour {
             }
         }
 
-        //One dies, the rest mate with each other since there's only 4.
+        //One dies, the rest mate with the best performer. However if you change the enemyCount... 
 
         //Reset enemies position & mutate genetic code
         for (int i = 0; i < enemyCount; i++){
@@ -158,7 +161,7 @@ public class GameManager : MonoBehaviour {
 
         //Text
         level++;
-        levelText.text = "Level: " + level;
+        levelText.text = "Dogs Sheltered: " + level;
         deathsText.text = "Deaths: " + numDeaths;
     }
 
@@ -171,6 +174,7 @@ public class GameManager : MonoBehaviour {
         }
         if (player.GetComponent<CharacterController>().isDead)
         {
+			addDeath();
             StartCoroutine(RespawnPlayer());
         }
         if (player.GetComponent<CharacterController>().beatLevel)
@@ -178,7 +182,7 @@ public class GameManager : MonoBehaviour {
             reset();
             player.GetComponent<CharacterController>().beatLevel = false;
         }
-        levelText.text = "Level: " + level;
+        levelText.text = "Dogs Sheltered: " + level;
         deathsText.text = "Deaths: " + numDeaths;
     }
 
@@ -186,7 +190,10 @@ public class GameManager : MonoBehaviour {
     {
         numDeaths++;
     }
+
     IEnumerator RespawnPlayer(){
+		player.GetComponent<CharacterController>().isDead = false;
+
         if (player.GetComponent<CharacterController>().isHoldingFlag){
 			enemyFlag.transform.position = player.transform.position;
 		}
@@ -195,7 +202,7 @@ public class GameManager : MonoBehaviour {
 		}
 		capturedDog.SetActive(false);
 		enemyFlag.SetActive(true);
-
+		 
 		yield return new WaitForSeconds(1);
         player.transform.position = playerSpawn;
 		player.GetComponent<CharacterController>().Init();
