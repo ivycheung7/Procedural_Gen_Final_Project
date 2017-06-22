@@ -120,7 +120,6 @@ public class GameManager : MonoBehaviour {
             }
         }
         //Indices should be in order now
-
         int[] validParents = new int[enemyCount];
 		//For now, the best performing enemy's genes will be mixed with the rest of the enemies. Aka it gets around.
         for (int i = 0; i < enemyCount; i++) {
@@ -143,7 +142,7 @@ public class GameManager : MonoBehaviour {
                 }
             }
         }
-
+		Debug.Log("as");
         //One dies, the rest mate with the best performer. However if you change the enemyCount... 
 
         //Reset enemies position & mutate genetic code

@@ -19,6 +19,12 @@ public class CharacterController : MonoBehaviour {
 
 	public bool isHoldingFlag;
 	public bool beatLevel;
+	
+	public AudioClip killedEnemy; 
+    public AudioClip killedPlayer;
+    public AudioClip dogBark;
+    public AudioClip victorySound;
+    
 	// Use this for initialization
 	void Start () {
 		Init();
@@ -28,7 +34,6 @@ public class CharacterController : MonoBehaviour {
 	public float getSpeed(){ return speed;}
 	public float getChaseSpeed(){ return chaseSpeed;}
 
-	//Init shouldnt really be public?? but theres a deadline
 	public void Init(){
 		rb = GetComponent<Rigidbody2D>();
 		dashIter = 0;
@@ -38,7 +43,7 @@ public class CharacterController : MonoBehaviour {
 		this.gameObject.SetActive(true);
 		isHoldingFlag = false;
 		beatLevel = false;
-	}	
+    }	
 
 	// Update is called once per frame
 	void Update () {
@@ -58,6 +63,7 @@ public class CharacterController : MonoBehaviour {
 					}			
 					else{
 						//Enemy has been killed
+						playSound(killedEnemy);
 						col.gameObject.GetComponent<CharacterController>().isDead = true;
 						col.gameObject.SetActive(false);
 	//					col.gameObject.GetComponent<Renderer>().material.color = new Color(col.gameObject.GetComponent<Renderer>().material.color.r, col.gameObject.GetComponent<Renderer>().material.color.g, col.gameObject.GetComponent<Renderer>().material.color.b);
@@ -66,6 +72,7 @@ public class CharacterController : MonoBehaviour {
 				}
 				//Player has been killed. Whoops
 				else if(col.gameObject.GetComponent<CharacterController>().isAttacking){
+					playSound(killedPlayer);
 					col.gameObject.GetComponent<AIController>().killedPlayerCount++;
 					isDead = true;
 					isHoldingFlag = false;				
@@ -74,6 +81,7 @@ public class CharacterController : MonoBehaviour {
 			}
 			//Capture flag	
 			if(col.gameObject.transform.tag == "Flag"){
+				playSound(dogBark);
 				col.gameObject.SetActive(false);
 				isHoldingFlag = true;
 				this.gameObject.transform.GetChild(0).gameObject.SetActive(true);
@@ -81,6 +89,7 @@ public class CharacterController : MonoBehaviour {
 
 			if(col.gameObject.transform.tag == "Home"){
 				if(isHoldingFlag){
+					playSound(victorySound);
 					beatLevel = true;
 				}
 			}
@@ -93,6 +102,11 @@ public class CharacterController : MonoBehaviour {
         }
 */
     }
+
+	public void playSound(AudioClip clip){
+		GetComponent<AudioSource>().clip = clip;
+		GetComponent<AudioSource>().Play();
+	}
 
 	public void dash(){
 		canDash = false;
